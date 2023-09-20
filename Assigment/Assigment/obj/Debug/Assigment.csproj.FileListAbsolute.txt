@@ -1,0 +1,10 @@
+C:\Users\watur\source\repos\Assigment\Assigment\bin\Debug\Assigment.exe.config
+C:\Users\watur\source\repos\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\watur\source\repos\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.Form1.resources
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.Properties.Resources.resources
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.GenerateResource.cache
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\watur\source\repos\Assigment\Assigment\obj\Debug\Assigment.pdb
